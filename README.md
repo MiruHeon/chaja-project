@@ -1,3 +1,6 @@
+![CHAJA 로고 블랙](https://github.com/MiruHeon/chaja-project/blob/main/CHAJA-logo-black.png?raw=true)  
+![CHAJA 로고 화이트](https://github.com/MiruHeon/chaja-project/blob/main/CHAJA-logo-white.png?raw=true)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
