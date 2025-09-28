@@ -1,4 +1,4 @@
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/40ad032a-80ee-4900-9f8c-ec038c32a0f1" /># 차자차자 사이트 제작 프로젝트
+# 차자차자 사이트 제작 프로젝트
 
 ## 1.프로젝트 개요
 프로젝트 제목 : 차자차자
