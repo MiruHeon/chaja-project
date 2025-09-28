@@ -1,4 +1,4 @@
-# 차자차자 사이트 제작 프로젝트
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/40ad032a-80ee-4900-9f8c-ec038c32a0f1" /># 차자차자 사이트 제작 프로젝트
 
 ## 1.프로젝트 개요
 프로젝트 제목 : 차자차자
@@ -8,7 +8,7 @@
 ## 2.팀원 소개
 | 류용헌 |
 |:------:|
-| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9A%A92.png?raw=true" alt="류용헌" width="150"> |
+| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/193119713.jpeg?raw=true" alt="류용헌" width="150"> |
 | PL |
 
 ## 3.프로젝트 로고
